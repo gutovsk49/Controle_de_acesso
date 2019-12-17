@@ -10,3 +10,5 @@ keypad.c
 
 lcd4d.c
 
+src\ASF\common\boards\user_board\init.c
+
